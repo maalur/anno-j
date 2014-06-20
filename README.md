@@ -20,6 +20,8 @@ Anno-J is a Web 2.0 application designed for visualizing deep sequencing data an
 ##License
 Anno-J is available under a Creative Commons by-nc-sa 3.0 license, although commercial use is permitted if permission from the author is first obtained. Please [contact](http://www.annoj.org/general/contact.shtml) the author with any queries.
 
+©2009 Julian Tonti-Filippini
+
 ##Architecture
 Anno-J is built around the REST philosophy and is designed to leverage the distributed nature of the internet. The key benefit to web-applications designed in this way is clear separation of style, logic and data.
 
