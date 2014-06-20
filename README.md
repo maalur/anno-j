@@ -1,4 +1,6 @@
 #Anno-J: Annotation Browsing
+I am not the creator of Anno-J. I am putting it on Github to keep it up to date and encourage others to help.
+
 For more information, visit the [Anno-J website](http://www.annoj.org/).
 
 ##Overview
