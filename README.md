@@ -1,4 +1,5 @@
 #Anno-J: Annotation Browsing
+For more information, visit the [Anno-J website](http://www.annoj.org/).
 
 ##Overview
 Anno-J is a Web 2.0 application designed for visualizing deep sequencing data and other genome annotation data. It is intended to run in modern W3C compliant browsers*, and allows flexible configuration of plugins and data streams from providers located anywhere on the internet.
